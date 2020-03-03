@@ -1,4 +1,4 @@
-# BaseChat
+# AngularChatApp
 
 This is a simple chat application built using Angular and Firebase.
 
